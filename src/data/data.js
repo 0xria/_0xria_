@@ -88,7 +88,7 @@ export const skills = [
   },
   {
     id: 10,
-    title: "Django",
+    title: "FastAPI",
   },
   {
     id: 11,

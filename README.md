@@ -25,7 +25,7 @@ React Icons: A library providing a wide range of icons for your projects.
 
 1.  Fork
 2.  Clone the forked repository to your local machine using `git clone`.
-3.  Navigate to the project directory: `cd 0xRia`.
+3.  Navigate to the project directory: `cd _0xria_`.
 4.  Install project dependencies using `npm install`.
 5.  Start the development server: `npm run dev`.
 6.  Open your web browser and navigate to `http://localhost:5173` to view the portfolio.

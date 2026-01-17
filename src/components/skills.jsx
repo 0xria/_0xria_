@@ -79,7 +79,7 @@ const Skills = () => {
                   <p
                     className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
                   >
-                    Javascript
+                    PostgreSQL
                   </p>
                 </div>
               </motion.div>
@@ -144,7 +144,7 @@ const Skills = () => {
                   <p
                     className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
                   >
-                    Bash
+                    FasAPI
                   </p>
                 </div>
               </motion.div>
@@ -158,7 +158,7 @@ const Skills = () => {
                   <p
                     className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
                   >
-                    Powershell
+                    Flask
                   </p>
                 </div>
               </motion.div>
