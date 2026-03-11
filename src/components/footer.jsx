@@ -46,7 +46,7 @@ const Footer = () => {
         <div className="mt-[10px] md:mt-[65px] flex justify-start items-center gap-[20px] md:gap-[40px]">
         
           <motion.a
-            href="https://twitter.com/_0xria_"
+            href="https://twitter.com/riashx_"
             target="_blank"
             rel="noreferrer"
             whileTap={{ scale: 1.1 }}
@@ -59,7 +59,7 @@ const Footer = () => {
             />
           </motion.a>
           <motion.a
-            href="https://www.instagram.com/_0xria_"
+            href="https://www.instagram.com/ria.shx_"
             target="_blank"
             rel="noreferrer"
             whileTap={{ scale: 1.1 }}
@@ -72,7 +72,7 @@ const Footer = () => {
             />
           </motion.a>
           <motion.a
-            href="https://www.linkedin.com/in/0xria"
+            href="https://www.linkedin.com/in/riashx"
             target="_blank"
             rel="noreferrer"
             whileTap={{ scale: 1.1 }}
