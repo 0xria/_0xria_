@@ -14,19 +14,19 @@ const Hero = () => {
                   bg-[length:200%_200%] animate-blueWhiteFlow
                   md:text-[35px] lg:text-[60px] lg:leading-[73.8px]"
                 >
-                  Cybersecurity Engineer
+                  Cloudsecurity Engineer
                 </h1>
            </div>
 
             <p className="gradientText font-medium font-pop text-[15px] text-[#FFFFFF] max-w-[353px] mt-[45px] md:mt-8 lg:mt-1 md:max-w-[639px] md:text-[18px] leading-md:[27px]">
-              A passionate Cybersecurity Engineer dedicated to protecting systems and networks from cyber threats.
+              A passionate Cloudsecurity Engineer dedicated to protecting systems and networks from cyber and cloud threats.
             </p>
             <div
               id="intro"
               className="text-[#FFFFFF] font-pop flex-shrink-0 text-[.9em] leading-[1.5] font-medium mt-[40px] flex flex-col gap-8 md:flex md:flex-col md:gap-[20px] md:mt-[45px] lg:flex lg:flex-row lg:items-start lg:gap-[12px]"
             >
               <p className="max-w-[310px]">
-              1+ Years of experience in building security systems with my cybersecurity and backend expertise.
+              1+ Years of experience in building security systems with my cyber/security and backend expertise.
               </p>
               <p className="max-w-[319px]">
                 Highly skilled at progressive enhancement, scalable backend systems, and security systems
@@ -37,7 +37,7 @@ const Hero = () => {
             <div className="mt-[35px] md:mt-[65px] flex justify-start items-center  gap-[26px] md:gap-[40px]">
               
               <motion.a
-                href="https://twitter.com/_0xria_"
+                href="https://twitter.com/riashx"
                 target="_blank"
                 rel="noreferrer"
                 whileTap={{ scale: 1.1 }}
@@ -50,7 +50,7 @@ const Hero = () => {
                 />
               </motion.a>
               <motion.a
-                href="https://www.instagram.com/_0xria_"
+                href="https://www.instagram.com/ria.shx_"
                 target="_blank"
                 rel="noreferrer"
                 whileTap={{ scale: 1.1 }}
@@ -63,7 +63,7 @@ const Hero = () => {
                 />
               </motion.a>
               <motion.a
-                href="https://www.linkedin.com/in/0xria"
+                href="https://www.linkedin.com/in/riashx"
                 target="_blank"
                 rel="noreferrer"
                 whileTap={{ scale: 1.1 }}
